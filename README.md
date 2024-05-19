@@ -13,3 +13,4 @@ Cél: London
 Dátum: 2024/05/20
 
 Firebase-be egyelőre nem lett hozzáadva több.
+Foglaláskor a profilba kerül. 
